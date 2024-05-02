@@ -1,0 +1,7 @@
+env = "Test"
+vpc_cidr = "10.120.0.0/16"
+public_subnet1_cidr = "10.120.1.0/24"
+public_subnet2_cidr = "10.120.2.0/24"
+public_subnet3_cidr = "10.120.3.0/24"
+key_name = "kalyantestkalyan_useast_1"
+imagename = "ami-06878d265978313ca"
